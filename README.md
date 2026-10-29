@@ -4,4 +4,4 @@ Power BI dashboard analyzing students performance.
 
 ## Dashboard Preview
 
-![Students Performance Dashboard](dash%20board.png)
+![Students Performance Dashboard](dashboard.png)
